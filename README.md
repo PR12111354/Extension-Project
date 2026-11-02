@@ -1,5 +1,7 @@
 # Extension-Project
 
+//For our project we have decided to make a 10 question trivia game that requires the user to use their fun fact knowledge and trivia to give their input (true or false/ yes or no) on whether or not the prompt given is correct.
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
